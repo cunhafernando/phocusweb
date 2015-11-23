@@ -47,7 +47,7 @@
                                         <a href="page-blog-02.html">BLOG</a>
                                     </li>                                         
                                     <li>
-                                        <a href="page-contact-01.html">CONTATO</a>
+                                        <a href="contato.php">CONTATO</a>
                                     </li>
                                 </ul>
                                 <!-- End Menu-->

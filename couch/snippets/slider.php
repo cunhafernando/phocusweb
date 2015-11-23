@@ -169,7 +169,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.1"
                                     data-endelementdelay="0.1"
                                     data-endspeed="300"
-                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">PROPORCIONANDO ÓTIMA EXPERIÊNCIA PARA TODOS OS USUÁRIOS
+                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">PROPORCIONANDO ÓTIMA EXPERIÊNCIA PARA O USUÁRIO
                                 </div>
 
                                 <!-- LAYER NR. 5 -->
@@ -232,7 +232,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.05"
                                     data-endelementdelay="0.05"
                                     data-endspeed="300"
-                                    style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Design e Desenvolvimento
+                                    style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Otimização de Sites SEO
                                 </div>
                                 <!-- LAYER NR. 2 -->
 
@@ -250,7 +250,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.12"
                                     data-endelementdelay="0.12"
                                     data-endspeed="300"
-                                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Para dispositivos Android e IOS
+                                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Melhoria de posicionamento do seu site nos principais buscadores.
                                 </div>
                                 <!-- LAYER NR. 3 -->
                             </li>
@@ -274,7 +274,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.1"
                                     data-endelementdelay="0.1"
                                     data-endspeed="300"
-                                    style="z-index: 2; max-width: auto; max-height: auto; white-space: normal;">WEBSITE COM DESIGN RESPONSIVO
+                                    style="z-index: 2; max-width: auto; max-height: auto; white-space: normal;">O SEU SITE NAS REDES SOCIAIS
                                 </div>
 
                                 <!-- LAYER NR. 2 -->
@@ -289,7 +289,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.1"
                                     data-endelementdelay="0.1"
                                     data-endspeed="300"
-                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">SITE ACESSÍVEL PARA TODO TIPO DE DISPOSITIVO
+                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">AINDA NÃO TEM UMA FANPAGE NO FACEBOOK?
                                 </div>
 
                                 <!-- LAYER NR. 3 -->
@@ -304,7 +304,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.1"
                                     data-endelementdelay="0.1"
                                     data-endspeed="300"
-                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">UM SITE QUE SE ADAPTA AUTOMATICAMENTE
+                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">VOCÊ NÃO ESTÁ SENDO SEGUIDO NO TWITTER?
                                 </div>
 
                                 <!-- LAYER NR. 4 -->
@@ -319,7 +319,7 @@ e solicite uma proposta de orçamento.
                                     data-elementdelay="0.1"
                                     data-endelementdelay="0.1"
                                     data-endspeed="300"
-                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">PROPORCIONANDO ÓTIMA EXPERIÊNCIA PARA TODOS OS USUÁRIOS
+                                    style="z-index: 3; font-size:16px; max-width: auto; max-height: auto; white-space: normal;">NÃO É ENCONTRADO NO GOOGLE+?
                                 </div>
 
                                 <!-- LAYER NR. 5 -->

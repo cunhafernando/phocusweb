@@ -56,7 +56,7 @@
                            <h3>CONTATO</h3>
                            <ul class="contact_footer">
                                 <li>
-                                    <i class="fa fa-envelope"></i> <a href="#">exemplo@exemplo.com</a>
+                                    <i class="fa fa-envelope"></i> <a href="#">contato@phocusweb.com.br</a>
                                 </li>
                                 <li>
                                     <i class="fa fa-headphones"></i> <a href="#">21-2242-8334</a>
