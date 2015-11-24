@@ -56,7 +56,7 @@
                     <div class="circle_bottom"></div>
                 </div>
                 <div class="info_vertical animated">
-                    <h1>Testimonials our <span>clients</span></h1>
+                    <h1>Testemunhos de nossos<span>clientes</span></h1>
                     <p>“Sollemnes wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip consequat.”</p>
                 </div>
                 <div class="vertical_line"></div>

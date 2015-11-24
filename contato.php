@@ -44,10 +44,10 @@
                 <div class="container">
                     <div class="row animated fadeInUp delay1">
                         <div class="col-md-5">
-                            <h1>Contact Us 01</h1>
+                            <h1>Entre em contato</h1>
                         </div>
                         <div class="col-md-7">                        
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac.</p>
+                            <p>Mostre-nos seu projeto. Será um prazer ajudar você a realizá-lo.</p>
                         </div>
                     </div>
                 </div>            
@@ -61,9 +61,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li>/</li>
-                                <li>Contact Us 01</li>                                       
+                                <li>Contato</li>                                       
                             </ul>
                         </div>
                     </div>
@@ -84,18 +84,18 @@
                                         <img src="img/office/1.jpg" alt="" class="img-responsive">
                                     </div>
                                     <div class="col-md-6">
-                                        <h4>Central Office</h4>
-                                        <p>Bigstart – Office Blvd No. 356-357
-                                        <br>Farmville Town, LA 12345<br>
-                                        Tel: +32 600 500 123<br>
-                                        Email: <a href="mailto:jdrendon@imaginacionweb.net">testmail@yourdomain.com</a><br>
-                                        Website: <a href="#">www.yoursitename.com</a></p>
+                                        <h4>Nossa Central</h4>
+                                        <p>Praça Almirante Jaceguai, 61/703
+                                        <br>Centro - Rio de Janeiro<br>
+                                        Tel: +55 21-2242-8334<br>
+                                        Email: <a href="mailto:contato@phocusweb.com.br">contato@phocusweb.com.br</a><br>
+                                        Website: <a href="http://www.phocusweb.com.br/">www.phocusweb.com.br</a></p>
                                     </div>
                                </div>
                             </div> 
                             <!-- Item Location--> 
 
-                            <!-- Item Location--> 
+                            <!-- Item Location 
                             <div class="col-md-6">
                                  <div class="row">
                                     <div class="col-md-6">
@@ -112,7 +112,7 @@
                                     
                                </div>
                             </div> 
-                            <!-- End Item Location--> 
+                             End Item Location--> 
                         </div>
                     </div>
                 </div>
@@ -127,25 +127,24 @@
                     <div class="container wow fadeInUp">
                         <div class="row">
                            <div class="col-md-6">
-                                <h3>Contact Form</h3>
+                                <h3>Qual é a sua dúvida?</h3>
                                 <form id="form" action="php/send_mail.php">
-                                    <input type="text" placeholder="Name" name="Name" required>
+                                    <input type="text" placeholder="Nome" name="Name" required>
                                     <input type="email" placeholder="Email"  name="Email" required>
-                                    <input type="number" placeholder="Phone"  name="Phone" required>
-                                    <textarea placeholder="Your Message" name="message" required></textarea>
-                                    <input type="submit" name="Submit" value="Send Message" class="button">
+                                    <input type="number" placeholder="Telefone"  name="Phone" required>
+                                    <textarea placeholder="Sua Mensagem" name="message" required></textarea>
+                                    <input type="submit" name="Submit" value="Enviar" class="button">
                                 </form> 
                                 <div id="result"></div>  
                             </div>
 
                             <div class="col-md-6">
-                                <h3>Get in touch</h3>
-                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus.</p>
+                                <h3>Deixe sua mensagem!</h3>
+                                <p class="lead">Assim que recebermos sua mensagem, entraremos em contato para tirar suas dúvidas.</p>
                                 
                                 <!-- Map area-->
                                 <section class="map_area">
-                                    <iframe  src="https://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=new+york&amp;aq=&amp;sll=40.396764,-3.713379&amp;sspn=9.61761,19.753418&amp;ie=UTF8&amp;hq=&amp;hnear=Nueva+York,+Estados+Unidos&amp;ll=40.614353,-74.005973&amp;spn=0.598524,1.234589&amp;t=m&amp;z=10&amp;output=embed">
-                                    </iframe>
+                                    <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:250px;width:630px;'><div id='gmap_canvas' style='height:245px;width:550px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='http://maps-generator.com/pt'>Maps-Generator</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=626a1e5e7823078331150b311c9fda5d3e453608'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:12,center:new google.maps.LatLng(-22.9156769,-43.18902639999999),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-22.9156769,-43.18902639999999)});infowindow = new google.maps.InfoWindow({content:'<strong>Phocus Desenvolvimento Web</strong><br>Praça Almirante Jacegua, 61/703<br>20240000 Rio de Janeiro<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
                                 </section>
                                 <!-- End Map area-->
                             </div>                 
@@ -155,81 +154,6 @@
                 <!-- End Info Resalt-->
             </section>   
             <!-- End content info - Grey Section--> 
-
-            <!-- footer-->
-            <footer class="footer_top">
-                <div class="container">
-                    <div class="row">
-                        <!-- Social Section-->
-                        <div class="col-md-2">
-                            <h3>FOLLOW US</h3>
-                            <ul class="social">
-                                <li class="facebook"><span><i class="fa fa-facebook"></i></span><a href="#">Facebook</a></li>
-                                <li class="twitter"><span><i class="fa fa-twitter"></i></span><a href="#">Twitter</a></li>
-                                <li class="github"><span><i class="fa fa-github"></i></span><a href="#">Github</a></li>
-                                <li class="linkedin"><span><i class="fa fa-linkedin"></i></span><a href="#">Linkedin</a></li>
-                            </ul>
-                        </div>
-                        <!-- End Social Section-->
-                        
-                        <!-- Recent links-->
-                        <div class="col-md-2">
-                            <h3>TWITTER FEED</h3>
-                            <div class="twitts"></div>                        
-                        </div>
-                        <!-- End Recent links-->
-
-                        <!-- Recent Links -->
-                        <div class="col-md-2">
-                            <h3>RECENT LINKS</h3>
-                            <ul>
-                                <li><i class="fa fa-check"></i><a href="#">Work</a></li>
-                                <li><i class="fa fa-check"></i><a href="#">About Us</a></li>
-                                <li><i class="fa fa-check"></i><a href="#">Services</a></li>
-                                <li><i class="fa fa-check"></i><a href="#">Contact Us</a></li>
-                            </ul>
-                        </div>
-                        <!-- End Recent Links-->
-
-                        <!-- Newsletter-->
-                        <div class="col-md-3">
-                            <h3>NEWSLETTER SIGN UP</h3>  
-                            <p>Enter your e-mail and subscribe to our newsletter.</p>
-                            <form id="newsletterForm" class="newsletterForm" action="php/mailchip/newsletter-subscribe.php">
-                                <div class="input-group">
-                                    <span class="input-group-addon">
-                                        <i class="fa fa-envelope"></i>
-                                    </span>
-                                    <input class="form-control" placeholder="Email Address" name="email"  type="email" required="required">
-                                    <span class="input-group-btn">
-                                        <button class="btn btn-primary" type="submit" name="subscribe" >Go!</button>
-                                    </span>
-                                </div>
-                            </form>   
-                            <div id="result-newsletter"></div>                    
-                        </div>
-                        <!-- end Newsletter-->
-
-                        <!-- Contact Us-->
-                        <div class="col-md-3">
-                           <h3>CONTACT US</h3>
-                           <ul class="contact_footer">
-                                <li>
-                                    <i class="fa fa-envelope"></i> <a href="#">example@example.com</a>
-                                </li>
-                                <li>
-                                    <i class="fa fa-headphones"></i> <a href="#">55-5698-4589</a>
-                                 </li>
-                                <li class="location">
-                                    <i class="fa fa-home"></i> <a href="#"> Av new stret - New York</a>
-                                </li>                                   
-                            </ul>
-                        </div>
-                        <!-- Contact Us-->
-                    </div>
-                </div>
-            </footer>      
-            <!-- End footer-->
 
             <!-- footer-->
             <footer class="coopring">
